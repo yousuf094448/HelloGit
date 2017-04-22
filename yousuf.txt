@@ -1,9 +1,7 @@
 Author: faishal.yousuf
 E-Mail: faishal.yousuf@yahoo.com
 New branch
-<<<<<<< HEAD
 Repo 1
-=======
 
 Repot 2
 
